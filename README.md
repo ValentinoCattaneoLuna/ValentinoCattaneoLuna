@@ -14,7 +14,7 @@ Estoy trabajando en **[VCLSoftware](https://www.vclsoftware.com)**, un proyecto 
 🔗 **Conéctemos**:
 - **LinkedIn**: [Valentino Cattaneo Luna](https://www.linkedin.com/in/valentino-cattaneo-luna-b6116926a/)
 - **Correo electrónico**: [valencattaneo04@gmail.com](mailto:valencattaneo04@gmail.com)
-- **PORTFOLIO**:[Portfolio]([https://v0-desarrollo-de-portfolio-fql758qcz.vercel.app](https://valentinocattaneoluna.github.io/portfolio/))
+- **PORTFOLIO**:[Portfolio](https://valentinocattaneoluna.github.io/portfolio/)
 
 ---
 
