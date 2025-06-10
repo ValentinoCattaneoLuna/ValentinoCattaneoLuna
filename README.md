@@ -3,10 +3,10 @@
 Soy un desarrollador de software apasionado por la tecnología y el desarrollo web. Actualmente, estudio la **Tecnicatura en Desarrollo de Software** en la **UADE (Costa Argentina)**, donde estoy formandome como profesional.
 
 🔧 **Tecnologías y Herramientas que manejo**:
-- **Backend**: Python, Java, SQL
+- **Backend**: Python, Java, SQL, NoSQL
 - **Frontend**: HTML, CSS, JavaScript
 - **Herramientas**: Git, GitHub
-- **Actualmente aprendiendo**: PHP
+- **Actualmente aprendiendo**: React, Express, Node, Express, TypeScript, Kotlin
 
 🌐 **Mi Proyecto Personal**:
 Estoy trabajando en **[VCLSoftware](https://www.vclsoftware.com)**, un proyecto personal que me permite explorar y desarrollar nuevas ideas y herramientas. ¡Me encantaría que lo visites!
