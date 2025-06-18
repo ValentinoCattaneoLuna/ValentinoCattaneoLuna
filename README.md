@@ -3,8 +3,9 @@
 Soy un desarrollador de software apasionado por la tecnología y el desarrollo web. Actualmente, estudio la **Tecnicatura en Desarrollo de Software** en la **UADE (Costa Argentina)**, donde estoy formandome como profesional.
 
 🔧 **Tecnologías y Herramientas que manejo**:
-- **Backend**: Python, Java, SQL, NoSQL
+- **Backend**: Python, Java
 - **Frontend**: HTML, CSS, JavaScript
+- **DataBases**: SQL, NoSQL
 - **Herramientas**: Git, GitHub
 - **Actualmente aprendiendo**: React, Express, Node, Express, TypeScript, Kotlin
 
