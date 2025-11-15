@@ -1,6 +1,6 @@
 # ¡Hola! Soy Valentino Cattaneo Luna 👋
 
-Soy un desarrollador de software apasionado por la tecnología y el desarrollo web. Actualmente, estudio la **Tecnicatura en Desarrollo de Software** en la **UADE (Costa Argentina)**, donde estoy formandome como profesional.
+Desarrollador de software. Actualmente, estudio la **Tecnicatura en Desarrollo de Software** en la **UADE (Costa Argentina)**, donde estoy formandome como profesional.
 
 🔧 **Tecnologías y Herramientas que manejo**:
 - **Backend**: Python, Java
@@ -8,9 +8,6 @@ Soy un desarrollador de software apasionado por la tecnología y el desarrollo w
 - **DataBases**: SQL, NoSQL
 - **Herramientas**: Git, GitHub
 - **Actualmente aprendiendo**: React, Express, Node, Express, TypeScript, Kotlin
-
-🌐 **Mi Proyecto Personal**:
-Estoy trabajando en **[VCLSoftware](https://www.vclsoftware.com)**, un proyecto personal que me permite explorar y desarrollar nuevas ideas y herramientas. ¡Me encantaría que lo visites!
 
 🔗 **Conéctemos**:
 - **LinkedIn**: [Valentino Cattaneo Luna](https://www.linkedin.com/in/valentino-cattaneo-luna-b6116926a/)
@@ -23,9 +20,6 @@ Estoy trabajando en **[VCLSoftware](https://www.vclsoftware.com)**, un proyecto 
 - **Backend**: Me encanta la lógica y el desarrollo de soluciones robustas.
 - **Frontend**: Disfruto crear interfaces limpias y funcionales, mejorando la experiencia de usuario.
 - **Full Stack**: Me considero capaz de trabajar tanto en el backend como en el frontend.
-
-🚀 **Mis proyectos**:
-En este perfil encontrarás una combinación de proyectos personales y colaboraciones que reflejan mi aprendizaje y mi pasión por la programación.
 
 ---
 
